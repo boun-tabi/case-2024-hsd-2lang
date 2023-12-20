@@ -1,8 +1,9 @@
 # Hate Speech Detection in Turkish and Arabic Tweets (HSD-2Lang)
 ## Overview
+
 Hate speech, which targets groups based on characteristics such as ethnicity, nationality, religion, colour, gender, and sexual orientation, is a significant problem on social media platforms. Automated detection of such content is crucial for effective content moderation and minimising societal harm, and can also be used in socio-political event analysis. 
 
-The effectiveness of current hate speech detection models is often hampered by issues such as limited data and lack of generalizability. To benchmark progress in this field, this shared task focuses on tackling the challenge of identifying hate speech on online platforms, specifically in Turkish and Arabic languages. Participants will develop models to detect hate speech on a range of topics.
+The effectiveness of current hate speech detection models is often hampered by issues such as limited data and lack of generalizability. Following the [SIU2023-NST](https://myweb.sabanciuniv.edu/berrin/siu2023-nst/) competition organized to benchmark progress in Turkish hate speech detection and classification, we are organizing a new shared task in conjunction with [CASE @ EACL 2024](https://emw.ku.edu.tr/case-2024/). This shared task focuses on tackling the challenge of identifying hate speech in tweets in Turkish and Arabic languages. Participants will develop models to detect hate speech on a range of topics.
 
 The task is divided into two subtasks:
 
@@ -77,3 +78,6 @@ There is an award prize for each task, to be distributed to top ranking submissi
 * Author Notification: Jan 29, 2024
 * Final Paper Submission: Feb 2, 2024
 * Workshop Dates: [To be Announced]
+
+## Contact
+For questions concerning the shared task, please contact gokceuludogan@gmail.com
