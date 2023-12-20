@@ -42,21 +42,21 @@ In addition to the outcomes displayed on the Private Leaderboard, participants a
 
 ###  What to Submit
 - **Full code:** You should upload your full code (containing pre-processing, training, and testing steps). Additionally, provide a README that explains how to execute the code for each task to ensure reproducible results.
-- **Results:** You should submit a single csv file for each task, consisting of one line for each tweet; each line should contain a tweet ID and a corresponding confidence score. The confidence score should reflect the likelihood of the tweet being hate speech, with '1' indicating certainty of hate speech and '0' signifying no hate speech. There must also be a header line "ID,Prediction". A sample submission file with correct format will be provided to the participants.
+- **Results:** You should submit a single csv file for each task, consisting of one line for each tweet; each line should contain a tweet ID and a corresponding label. Please use '1' to indicate the presence of hate speech and '0' to signify its absence. There must also be a header line "ID,Prediction". A sample submission file with correct format will be provided to the participants.
   
 **Sample Submission File Format:**  
 ```
 ID,Prediction
-1,0.7
-2,0.3
-3,0.15
-4,0.4
-5,0.3
-6,0.44
-7,0.55
-8,0.1
-9,0.45
-10,0.33
+1,1
+2,0
+3,0
+4,1
+5,0
+6,1
+7,1
+8,1
+9,0
+10,0
 ```
 
 ## Participation
