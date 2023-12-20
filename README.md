@@ -1,7 +1,9 @@
 # Hate Speech Detection in Turkish and Arabic Tweets (HST-2Lang)
 ## Overview
 Hate speech, which targets groups based on characteristics such as ethnicity, nationality, religion, colour, gender, and sexual orientation, is a significant problem on social media platforms. Automated detection of such content is crucial for effective content moderation and minimising societal harm, and can also be used in socio-political event analysis. 
+
 The effectiveness of current hate speech detection models is often hampered by issues such as limited data and lack of generalizability. To benchmark progress in this field, this shared task focuses on tackling the challenge of identifying hate speech on online platforms, specifically in Turkish and Arabic languages. Participants will develop models to detect hate speech on a range of topics.
+
 The task is divided into two subtasks:
 
 A) Hate Speech Detection in Turkish across Various Contexts
