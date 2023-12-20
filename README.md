@@ -2,7 +2,9 @@
 Hate speech, which targets groups based on characteristics such as ethnicity, nationality, religion, colour, gender, and sexual orientation, is a significant problem on social media platforms. Automated detection of such content is crucial for effective content moderation and minimising societal harm, and can also be used in socio-political event analysis. 
 The effectiveness of current hate speech detection models is often hampered by issues such as limited data and lack of generalizability. To benchmark progress in this field, this shared task focuses on tackling the challenge of identifying hate speech on online platforms, specifically in Turkish and Arabic languages. Participants will develop models to detect hate speech on a range of topics.
 The task is divided into two subtasks:
+
 A) Hate Speech Detection in Turkish across Various Contexts
+
 B) Hate Speech Detection with Limited Data in Arabic
 
 ## Task Definitions
@@ -37,6 +39,7 @@ In addition to the outcomes displayed on the Private Leaderboard, participants a
 ## What to Submit
 - **Full code:** You should upload your full code (containing pre-processing, training, and testing steps). Additionally, provide a README that explains how to execute the code for each task to ensure reproducible results.
 - **Results:** You should submit a single csv file for each task, consisting of one line for each tweet; each line should contain a tweet ID and a corresponding confidence score. The confidence score should reflect the likelihood of the tweet being hate speech, with '1' indicating certainty of hate speech and '0' signifying no hate speech. There must also be a header line "ID,Prediction". A sample submission file with correct format will be provided to the participants.
+  
 **Sample Submission File Format:**  
 ```
 ID,Prediction
