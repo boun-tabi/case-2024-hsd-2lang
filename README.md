@@ -70,7 +70,7 @@ There is an award prize for each task, to be distributed to top ranking submissi
 ## Timeline
 
 * Registration Deadline: Jan 5, 2024
-* Training Data Release (Subtask A): Dec 20, 2023
+* Training Data Release (Subtask A): Dec 23, 2023
 * Training Data Release (Subtask B): Dec 26, 2023
 * Test Data Release: Jan 14, 2024
 * Testing Phase: Jan 14-16, 2024
