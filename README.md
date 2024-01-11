@@ -38,7 +38,7 @@ Evaluation will be conducted on the Kaggle platform, allowing multiple, but limi
 
 The initial leaderboard, constituting approximately 20% of the test data, is referred to as the public leaderboard and will be visible as feedback to the participants. In contrast, the private leaderboard, accounting for 80% of the test data, will remain concealed until after the testing phase and will determine the ultimate scores of the competition. 
 
-In addition to the outcomes displayed on the Private Leaderboard, participants are required to provide their code along with a concise (150-250 words) model description. The submitted code must be error-free and capable of generating predictions identical to those submitted on the Kaggle platform to re-generate the final leaderboard score. If participants fail to provide error-free code that gives the given output, or their model description, their ranking and submissions will not be taken into consideration.
+In addition to the outcomes displayed on the Private Leaderboard, participants are required to provide their code along with a concise (500 words) model description. The submitted code must be error-free and capable of generating predictions identical to those submitted on the Kaggle platform to re-generate the final leaderboard score. If participants fail to provide error-free code that gives the given output, or their model description, their ranking and submissions will not be taken into consideration.
 
 ###  What to Submit
 - **Full code:** You should upload your full code (containing pre-processing, training, and testing steps). Additionally, provide a README that explains how to execute the code for each task to ensure reproducible results.
