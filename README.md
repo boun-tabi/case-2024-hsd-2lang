@@ -84,5 +84,7 @@ Paper submission is not required for participation in the shared task. However, 
 
 In addition to system descriptions, short papers (https://aclrollingreview.org/cfp) will also be accepted to the shared task, but are not mandatory. Accepted papers will appear in the proceedings if written according to the guidelines of the ACL and may be presented in short-oral or poster format. At least one author must be registered to the workshop for publication.
 
+Further details on submission requirements can be found at [https://emw.ku.edu.tr/case-2024/](https://emw.ku.edu.tr/case-2024/).
+
 ## Contact
 For questions concerning the shared task, please contact gokceuludogan@gmail.com
