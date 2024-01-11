@@ -77,7 +77,11 @@ There is an award prize for each task, to be distributed to top ranking submissi
 * Paper Submission Deadline: Jan 23, 2024
 * Author Notification: Jan 29, 2024
 * Final Paper Submission: Feb 2, 2024
-* Workshop Dates: [To be Announced]
+* Workshop Dates: Mar 21-22, 2024
+
+Paper submission is not required for participation in the shared task. However, each participant is expected to provide a 500-word system description explaining their approach, any additional data used, and any other resources utilized (e.g., public code or pretrained networks).
+
+In addition to system descriptions, short papers (https://aclrollingreview.org/cfp) will also be accepted to the shared task, but are not mandatory. Accepted papers will appear in the proceedings if written according to the guidelines of the ACL and may be presented in short-oral or poster format. At least one author must be registered to the workshop for publication.
 
 ## Contact
 For questions concerning the shared task, please contact gokceuludogan@gmail.com
