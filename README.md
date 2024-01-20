@@ -61,8 +61,8 @@ ID,Prediction
 
 ## Participation
 Interested parties must fill out [the registration form](https://forms.gle/47eqrCuqMCe4KmxA7) and should join the corresponding Kaggle competitions:
-- [Subtask A](https://www.kaggle.com/competitions/hate-speech-detection-in-turkish)
-- [Subtask B](https://www.kaggle.com/competitions/hate-speech-detection-with-limited-data-in-arabic)
+- [Subtask A](https://www.kaggle.com/t/751541fe1dc943eaa415f7368fee6137)
+- [Subtask B](https://www.kaggle.com/t/da35bee8c509493bb6239ef188db9ec7)
 
 ### Award
 There is an award prize for each task, to be distributed to top ranking submissions in each task, depending on their performances. The total amount for the full competition is 7000 euros (brut) to be distributed at the discretion of the evaluation committee according to the performance of the eligible submissions. 
