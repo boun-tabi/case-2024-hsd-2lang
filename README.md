@@ -74,9 +74,9 @@ There is an award prize for each task, to be distributed to top ranking submissi
 * Training Data Release (Subtask B): Dec 26, 2023
 * Test Data Release: Jan 14, 2024
 * Testing Phase: Jan 14-16, 2024
-* Paper Submission Deadline: Jan 23, 2024
-* Author Notification: Jan 29, 2024
-* Final Paper Submission: Feb 2, 2024
+* Paper Submission Deadline: Jan 25, 2024
+* Author Notification: Jan 30, 2024
+* Final Paper Submission: Feb 3, 2024
 * Workshop Dates: Mar 21-22, 2024
 
 ## Paper Submission
