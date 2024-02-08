@@ -87,4 +87,5 @@ In addition to system descriptions, short papers (https://aclrollingreview.org/c
 Further details on submission requirements can be found at [https://emw.ku.edu.tr/case-2024/](https://emw.ku.edu.tr/case-2024/).
 
 ## Contact
-For questions concerning the shared task, please contact gokceuludogan@gmail.com
+Gökçe Uludoğan (gokceuludogan@gmail.com)
+Somaiyeh Dehghan (somaiyeh.dehghan@sabanciuniv.edu)
