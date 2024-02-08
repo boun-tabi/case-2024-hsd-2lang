@@ -88,4 +88,5 @@ Further details on submission requirements can be found at [https://emw.ku.edu.t
 
 ## Contact
 Gökçe Uludoğan (gokceuludogan@gmail.com)
+
 Somaiyeh Dehghan (somaiyeh.dehghan@sabanciuniv.edu)
