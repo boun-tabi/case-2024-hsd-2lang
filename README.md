@@ -116,7 +116,7 @@ Further details on submission requirements can be found at [https://emw.ku.edu.t
    - **Team Members:** Uriel Nguefack Yefou
    - **Prize:**  700€<sup>*</sup>
 
-* The prizes provided are gross amounts.
+*The prizes provided are gross amounts.
 
 Well done to all teams for their excellent work and contributions!
 
