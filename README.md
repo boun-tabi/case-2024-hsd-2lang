@@ -90,29 +90,29 @@ Further details on submission requirements can be found at [https://emw.ku.edu.t
 
 ### Subtask A Leaderboard Results
 
-1. **DetectiveReaders** with an F1 score of 0.73362 on the public leaderboard and 0.69645 on the private leaderboard.
+1. **DetectiveReaders** with an F1 score of 0.69645 on the private leaderboard (sequestered test set).
    - **Team Members:** Fatima Zahra Qachfar, Bryan Tuck, Rakesh M. Verma
    - **Prize:** 1500€<sup>*</sup>
 
-2. **ReBERT** with an F1 score of 0.73786 on the public leaderboard and 0.68886 on the private leaderboard.
+2. **ReBERT** with an F1 score of 0.68886 on the private leaderboard (sequestered test set).
    - **Team Members:** Egemen İşcan, Ahmet Emirhan Kolçak, Utku Uğur Yağcı
    - **Prize:**  1300€<sup>*</sup>
 
-3. **VRLLab** with an F1 score of 0.70642 on the public leaderboard and 0.66432 on the private leaderboard.
+3. **VRLLab** with an F1 score of 0.66432 on the private leaderboard (sequestered test set).
    - **Team Members:** Onur Varol, Ali Najafi
    - **Prize:**  1100€<sup>*</sup>
 
 ### Subtask B Leaderboard Results
 
-1. **ReBERT** with an F1 score of 0.76923 on the public leaderboard and 0.68354 on the private leaderboard.
+1. **ReBERT** with an F1 score of 0.68354 on the private leaderboard (sequestered test set).
    - **Team Members:** Egemen İşcan, Ahmet Emirhan Kolçak, Utku Uğur Yağcı
    - **Prize:**  1300€<sup>*</sup>
 
-2. **Team Curie** with an F1 score of 0.76923 on the public leaderboard and 0.65854 on the private leaderboard.
+2. **Team Curie** with an F1 score of 0.65854 on the private leaderboard (sequestered test set).
    - **Team Members:** Işık Topçu, Ehsan Barkhordar
    - **Prize:**  1100€<sup>*</sup>
 
-3. **Team Uriel** with an F1 score of 0.64000 on the public leaderboard and 0.63636 on the private leaderboard.
+3. **Team Uriel** with an F1 score of 0.63636 on the private leaderboard (sequestered test set).
    - **Team Members:** Uriel Nguefack Yefou
    - **Prize:**  700€<sup>*</sup>
 
